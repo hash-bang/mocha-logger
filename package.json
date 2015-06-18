@@ -1,0 +1,26 @@
+{
+  "name": "mocha-logger",
+  "version": "1.0.0",
+  "description": "Simple logging support using the standard Mocha reporting style",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hash-bang/mocha-logger.git"
+  },
+  "keywords": [
+    "mocha",
+    "log",
+    "logging",
+    "colors",
+    "reporting"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash-bang/mocha-logger/issues"
+  },
+  "homepage": "https://github.com/hash-bang/mocha-logger#readme",
+  "dependencies": {
+    "mocha": "^2.2.5"
+  }
+}
