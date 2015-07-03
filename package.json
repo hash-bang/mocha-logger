@@ -1,6 +1,6 @@
 {
   "name": "mocha-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple logging support using the standard Mocha reporting style",
   "main": "index.js",
   "repository": {

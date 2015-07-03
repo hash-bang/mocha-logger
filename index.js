@@ -18,22 +18,22 @@ function _argArray(argObj, prefix, suffix) {
 var styles = {
 	log: {
 		color: 'error stack', // I know this makes no sence, it just looks better
-		prefix: mcoloring('error stack', '    - '),
+		prefix: mcoloring('error stack', '    -'),
 		suffix: null,
 	},
 	pending: {
 		color: 'error stack', // I know this makes no sence, it just looks better
-		prefix: mcoloring('error stack', '    - '),
+		prefix: mcoloring('error stack', '    -'),
 		suffix: null,
 	},
 	success: {
 		color: 'pass',
-		prefix: mcoloring('bright pass', '    ✔ '),
+		prefix: mcoloring('bright pass', '    ✔'),
 		suffix: null,
 	},
 	error: {
 		color: 'fail',
-		prefix: mcoloring('fail', '    ✖ '),
+		prefix: mcoloring('fail', '    ✖'),
 		suffix: null,
 	},
 };
