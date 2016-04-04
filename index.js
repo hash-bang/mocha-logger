@@ -55,7 +55,7 @@ function pending() {
 function success() {
 	console.log.apply(this, 
 		_argArray(arguments, styles.success.prefix, styles.success.suffix)
-			.map(function(v, k) { return k == 0 ? v : mcoloring(styles.pending.color, v) }
+			.map(function(v, k) { return k == 0 ? v : mcoloring(styles.success.color, v) }
 	));
 }
 
