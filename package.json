@@ -1,6 +1,6 @@
 {
   "name": "mocha-logger",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Simple logging support using the standard Mocha reporting style",
   "main": "index.js",
   "repository": {
@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/hash-bang/mocha-logger#readme",
   "peerDependencies": {
-    "mocha": "^8.1.3"
+    "mocha": "^9.2.2"
   },
   "dependencies": {
-    "mocha": "^8.1.3"
+    "mocha": "^9.2.2"
   }
 }
